@@ -6,7 +6,7 @@ menu = """
 3.Al-Falak"""
 print(menu)
 pil = input("PILIH YANG MANA :")
-if fil == '1':
+if pil == '1':
    os.system('python an-nas.py')
 elif pil == '2':
      os.system('python al-falaq.py')
