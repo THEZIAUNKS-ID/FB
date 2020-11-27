@@ -1,7 +1,8 @@
 import os,sys
-
+os.system('clear')
 menu = """
-1.Al-Fatiha 4.Al-ikhlas
+1.Al-Fatiha 
+4.Al-ikhlas
 2.An-Nas
 3.Al-Falak"""
 print(menu)
